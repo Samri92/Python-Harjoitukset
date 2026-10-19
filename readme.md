@@ -9,3 +9,5 @@ Tein tehtävät 1, 2, 3, 4
 Tein tehvätä 1, 2, 3, 4, 5
 ## Moduuli 5
 Tein tehtävät 1, 2, 3, 4
+## Tein Kertaustehtävät 19.10
+Tein tehtävät 1-9

@@ -12,4 +12,4 @@ if vkp == "su":
     pv_palkka = tuntipalkka_float * t_tunnit_float * 2
 else:
     pv_palkka = tuntipalkka_float * t_tunnit_float
-print(f"Päiväpalkka: {pv_palkka}")
+print("Päiväpalkka: ",pv_palkka)
