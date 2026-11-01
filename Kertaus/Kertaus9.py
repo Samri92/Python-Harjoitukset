@@ -19,5 +19,6 @@ while True:
     if jatko == "ei":
         break
 for i in range(len(tuotteet)):
+    print("Tuotanto lopetettu!")
     print(f"{tuotteet[i]}: {maarat[i]} kpl")
 

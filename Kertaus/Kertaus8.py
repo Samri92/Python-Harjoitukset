@@ -10,7 +10,7 @@ kokonaiskustannus = 0.0
 
 print("Tuotteiden valmistuskustannukset:")
 
-
+#Käydään lista läpi
 for kustannus in kustannukset:
     print("Kustannus: ",kustannus)
     kokonaiskustannus += kustannus
