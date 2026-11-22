@@ -13,3 +13,5 @@ Tein tehtävät 1, 2, 3, 4
 Tein tehtävät 1-9
 ## Moduuli 6
 Tein tehtävät 1-6
+## Moduuli 7
+Tein tehtävät 1-3
